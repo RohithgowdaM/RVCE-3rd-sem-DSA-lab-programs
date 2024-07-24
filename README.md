@@ -34,4 +34,5 @@ Design a doubly linked list to represent sparse matrix. Each node in the list ca
 
 <li>Write a C program to implement priority queue to insert, delete and display the elements.</li>
 
+<li>Write a C program to implement heap.</li>
 </ol>
